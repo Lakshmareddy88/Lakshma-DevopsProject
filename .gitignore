@@ -1,1 +1,3 @@
 .aws/credentials
+.git-credentials
+aws/dist/awscli/examples/greengrass/create-connector-definition-version.rst
