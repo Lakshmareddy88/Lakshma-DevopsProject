@@ -4,6 +4,7 @@
 #Date: 12th Dec 2025
 #OS: Macbook
 #Version Conntrol: GitHub
+#Location: KL
 #
 #This script is used for push to GitHub
 #Version: V1
