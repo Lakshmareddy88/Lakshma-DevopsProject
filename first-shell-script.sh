@@ -2,6 +2,7 @@
 #
 #Author: Lakshma
 #Date: 12th Dec 2025
+#OS: Macbook
 #
 #This script is used for push to GitHub
 #Version: V1
