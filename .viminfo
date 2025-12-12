@@ -12,9 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1764839718,,"wq!"
+|2,0,1765511789,,"wq!"
 :q!
-|2,0,1764839684,,"q!"
+|2,0,1765511620,,"q!"
+:wq:
+|2,0,1765444367,,"wq:"
 
 # Search String History (newest to oldest):
 
@@ -27,114 +29,284 @@
 # Registers:
 
 # File marks:
-'0  29  0  ~/aws_resource_tracker.sh
-|4,48,29,0,1764844617,"~/aws_resource_tracker.sh"
-'1  25  71  ~/aws_resource_tracker.sh
-|4,49,25,71,1764839718,"~/aws_resource_tracker.sh"
-'2  25  51  ~/aws_resource_tracker.sh
-|4,50,25,51,1764839684,"~/aws_resource_tracker.sh"
-'3  33  1  ~/aws_resource_tracker.sh
-|4,51,33,1,1764838861,"~/aws_resource_tracker.sh"
-'4  33  1  ~/aws_resource_tracker.sh
-|4,52,33,1,1764838861,"~/aws_resource_tracker.sh"
-'5  33  1  ~/aws_resource_tracker.sh
-|4,53,33,1,1764838861,"~/aws_resource_tracker.sh"
-'6  33  1  ~/aws_resource_tracker.sh
-|4,54,33,1,1764838861,"~/aws_resource_tracker.sh"
-'7  12  5  ~/aws_resource_tracker.sh
-|4,55,12,5,1764835073,"~/aws_resource_tracker.sh"
-'8  12  5  ~/aws_resource_tracker.sh
-|4,56,12,5,1764835073,"~/aws_resource_tracker.sh"
-'9  12  5  ~/aws_resource_tracker.sh
-|4,57,12,5,1764835073,"~/aws_resource_tracker.sh"
+'0  7  25  ~/second-shell-script.sh
+|4,48,7,25,1765511789,"~/second-shell-script.sh"
+'1  2  0  ~/second-shell-script
+|4,49,2,0,1765511620,"~/second-shell-script"
+'2  6  24  ~/first-shell-script.sh
+|4,50,6,24,1765511497,"~/first-shell-script.sh"
+'3  5  11  ~/first-shell-script.sh
+|4,51,5,11,1765511058,"~/first-shell-script.sh"
+'4  5  11  ~/first-shell-script.sh
+|4,52,5,11,1765511058,"~/first-shell-script.sh"
+'5  19  0  ~/first-shell-script.sh
+|4,53,19,0,1765510325,"~/first-shell-script.sh"
+'6  18  0  ~/first-shell-script.sh
+|4,54,18,0,1765510325,"~/first-shell-script.sh"
+'7  18  0  ~/first-shell-script.sh
+|4,55,18,0,1765510325,"~/first-shell-script.sh"
+'8  17  0  ~/first-shell-script.sh
+|4,56,17,0,1765510325,"~/first-shell-script.sh"
+'9  5  0  ~/calculator.sh
+|4,57,5,0,1765509888,"~/calculator.sh"
 
 # Jumplist (newest first):
--'  29  0  ~/aws_resource_tracker.sh
-|4,39,29,0,1764844617,"~/aws_resource_tracker.sh"
--'  25  71  ~/aws_resource_tracker.sh
-|4,39,25,71,1764839718,"~/aws_resource_tracker.sh"
--'  25  51  ~/aws_resource_tracker.sh
-|4,39,25,51,1764839684,"~/aws_resource_tracker.sh"
--'  33  1  ~/aws_resource_tracker.sh
-|4,39,33,1,1764839657,"~/aws_resource_tracker.sh"
--'  33  1  ~/aws_resource_tracker.sh
-|4,39,33,1,1764839657,"~/aws_resource_tracker.sh"
--'  33  1  ~/aws_resource_tracker.sh
-|4,39,33,1,1764838861,"~/aws_resource_tracker.sh"
--'  12  5  ~/aws_resource_tracker.sh
-|4,39,12,5,1764838422,"~/aws_resource_tracker.sh"
--'  12  5  ~/aws_resource_tracker.sh
-|4,39,12,5,1764838422,"~/aws_resource_tracker.sh"
--'  12  5  ~/aws_resource_tracker.sh
-|4,39,12,5,1764838422,"~/aws_resource_tracker.sh"
--'  12  5  ~/aws_resource_tracker.sh
-|4,39,12,5,1764836222,"~/aws_resource_tracker.sh"
--'  12  5  ~/aws_resource_tracker.sh
-|4,39,12,5,1764835073,"~/aws_resource_tracker.sh"
--'  12  5  ~/aws_resource_tracker.sh
-|4,39,12,5,1764834941,"~/aws_resource_tracker.sh"
--'  33  18  ~/aws_resource_tracker.sh
-|4,39,33,18,1764834858,"~/aws_resource_tracker.sh"
--'  33  18  ~/aws_resource_tracker.sh
-|4,39,33,18,1764834858,"~/aws_resource_tracker.sh"
--'  33  18  ~/aws_resource_tracker.sh
-|4,39,33,18,1764834858,"~/aws_resource_tracker.sh"
--'  31  18  ~/aws_resource_tracker.sh
-|4,39,31,18,1764834805,"~/aws_resource_tracker.sh"
--'  31  18  ~/aws_resource_tracker.sh
-|4,39,31,18,1764834805,"~/aws_resource_tracker.sh"
--'  31  18  ~/aws_resource_tracker.sh
-|4,39,31,18,1764834805,"~/aws_resource_tracker.sh"
--'  31  18  ~/aws_resource_tracker.sh
-|4,39,31,18,1764834805,"~/aws_resource_tracker.sh"
--'  31  18  ~/aws_resource_tracker.sh
-|4,39,31,18,1764834805,"~/aws_resource_tracker.sh"
--'  31  18  ~/aws_resource_tracker.sh
-|4,39,31,18,1764834805,"~/aws_resource_tracker.sh"
--'  27  18  ~/aws_resource_tracker.sh
-|4,39,27,18,1764832115,"~/aws_resource_tracker.sh"
--'  29  18  ~/aws_resource_tracker.sh
-|4,39,29,18,1764832115,"~/aws_resource_tracker.sh"
--'  27  18  ~/aws_resource_tracker.sh
-|4,39,27,18,1764832115,"~/aws_resource_tracker.sh"
--'  29  18  ~/aws_resource_tracker.sh
-|4,39,29,18,1764832115,"~/aws_resource_tracker.sh"
--'  27  18  ~/aws_resource_tracker.sh
-|4,39,27,18,1764832115,"~/aws_resource_tracker.sh"
--'  29  18  ~/aws_resource_tracker.sh
-|4,39,29,18,1764832115,"~/aws_resource_tracker.sh"
--'  27  18  ~/aws_resource_tracker.sh
-|4,39,27,18,1764832115,"~/aws_resource_tracker.sh"
--'  29  18  ~/aws_resource_tracker.sh
-|4,39,29,18,1764832115,"~/aws_resource_tracker.sh"
--'  27  18  ~/aws_resource_tracker.sh
-|4,39,27,18,1764832115,"~/aws_resource_tracker.sh"
--'  29  18  ~/aws_resource_tracker.sh
-|4,39,29,18,1764832115,"~/aws_resource_tracker.sh"
--'  27  18  ~/aws_resource_tracker.sh
-|4,39,27,18,1764832115,"~/aws_resource_tracker.sh"
--'  27  18  ~/aws_resource_tracker.sh
-|4,39,27,18,1764831518,"~/aws_resource_tracker.sh"
--'  1  0  ~/aws_resource_tracker.sh
-|4,39,1,0,1764830727,"~/aws_resource_tracker.sh"
--'  1  0  ~/aws_resource_tracker.sh
-|4,39,1,0,1764830727,"~/aws_resource_tracker.sh"
--'  1  0  ~/aws_resource_tracker.sh
-|4,39,1,0,1764830727,"~/aws_resource_tracker.sh"
--'  1  0  ~/aws_resource_tracker.sh
-|4,39,1,0,1764830727,"~/aws_resource_tracker.sh"
--'  1  0  ~/aws_resource_tracker.sh
-|4,39,1,0,1764830727,"~/aws_resource_tracker.sh"
--'  1  0  ~/aws_resource_tracker.sh
-|4,39,1,0,1764830727,"~/aws_resource_tracker.sh"
--'  1  0  ~/aws_resource_tracker.sh
-|4,39,1,0,1764830727,"~/aws_resource_tracker.sh"
--'  1  0  ~/aws_resource_tracker.sh
-|4,39,1,0,1764830727,"~/aws_resource_tracker.sh"
--'  1  0  ~/aws_resource_tracker.sh
-|4,39,1,0,1764830727,"~/aws_resource_tracker.sh"
+-'  7  25  ~/second-shell-script.sh
+|4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  1  0  ~/second-shell-script.sh
+|4,39,1,0,1765511625,"~/second-shell-script.sh"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  1  0  ~/second-shell-script
+|4,39,1,0,1765511534,"~/second-shell-script"
+-'  1  0  ~/second-shell-script
+|4,39,1,0,1765511534,"~/second-shell-script"
+-'  6  24  ~/first-shell-script.sh
+|4,39,6,24,1765511497,"~/first-shell-script.sh"
+-'  6  24  ~/first-shell-script.sh
+|4,39,6,24,1765511497,"~/first-shell-script.sh"
+-'  6  24  ~/first-shell-script.sh
+|4,39,6,24,1765511497,"~/first-shell-script.sh"
+-'  6  24  ~/first-shell-script.sh
+|4,39,6,24,1765511497,"~/first-shell-script.sh"
+-'  5  11  ~/first-shell-script.sh
+|4,39,5,11,1765511412,"~/first-shell-script.sh"
+-'  5  11  ~/first-shell-script.sh
+|4,39,5,11,1765511412,"~/first-shell-script.sh"
+-'  5  11  ~/first-shell-script.sh
+|4,39,5,11,1765511412,"~/first-shell-script.sh"
+-'  5  11  ~/first-shell-script.sh
+|4,39,5,11,1765511412,"~/first-shell-script.sh"
+-'  5  11  ~/first-shell-script.sh
+|4,39,5,11,1765511058,"~/first-shell-script.sh"
+-'  5  11  ~/first-shell-script.sh
+|4,39,5,11,1765511058,"~/first-shell-script.sh"
+-'  5  11  ~/first-shell-script.sh
+|4,39,5,11,1765511058,"~/first-shell-script.sh"
+-'  5  11  ~/first-shell-script.sh
+|4,39,5,11,1765511058,"~/first-shell-script.sh"
+-'  19  0  ~/first-shell-script.sh
+|4,39,19,0,1765511024,"~/first-shell-script.sh"
+-'  18  0  ~/first-shell-script.sh
+|4,39,18,0,1765511024,"~/first-shell-script.sh"
+-'  19  0  ~/first-shell-script.sh
+|4,39,19,0,1765511024,"~/first-shell-script.sh"
+-'  18  0  ~/first-shell-script.sh
+|4,39,18,0,1765511024,"~/first-shell-script.sh"
+-'  19  0  ~/first-shell-script.sh
+|4,39,19,0,1765511024,"~/first-shell-script.sh"
+-'  18  0  ~/first-shell-script.sh
+|4,39,18,0,1765511024,"~/first-shell-script.sh"
+-'  19  0  ~/first-shell-script.sh
+|4,39,19,0,1765511024,"~/first-shell-script.sh"
+-'  18  0  ~/first-shell-script.sh
+|4,39,18,0,1765511024,"~/first-shell-script.sh"
+-'  18  0  ~/first-shell-script.sh
+|4,39,18,0,1765510325,"~/first-shell-script.sh"
+-'  17  0  ~/first-shell-script.sh
+|4,39,17,0,1765510325,"~/first-shell-script.sh"
+-'  18  0  ~/first-shell-script.sh
+|4,39,18,0,1765510325,"~/first-shell-script.sh"
+-'  17  0  ~/first-shell-script.sh
+|4,39,17,0,1765510325,"~/first-shell-script.sh"
+-'  18  0  ~/first-shell-script.sh
+|4,39,18,0,1765510325,"~/first-shell-script.sh"
+-'  17  0  ~/first-shell-script.sh
+|4,39,17,0,1765510325,"~/first-shell-script.sh"
+-'  18  0  ~/first-shell-script.sh
+|4,39,18,0,1765510325,"~/first-shell-script.sh"
+-'  17  0  ~/first-shell-script.sh
+|4,39,17,0,1765510325,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  1  0  ~/first-shell-script.sh
+|4,39,1,0,1765509991,"~/first-shell-script.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  5  0  ~/calculator.sh
+|4,39,5,0,1765509888,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
+-'  3  4  ~/calculator.sh
+|4,39,3,4,1765509874,"~/calculator.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/second-shell-script.sh
+	*	1765511786	0
+	"	7	25
+	^	7	26
+	.	7	25
+	+	7	25
+
+> ~/second-shell-script
+	*	1765511617	0
+	"	2	0
+	^	2	0
+	.	1	11
+	+	1	11
+
+> ~/first-shell-script.sh
+	*	1765511494	0
+	"	6	24
+	^	6	25
+	.	6	24
+	+	18	5
+	+	14	26
+	+	17	21
+	+	18	12
+	+	20	0
+	+	19	0
+	+	11	27
+	+	14	22
+	+	12	5
+	+	17	0
+	+	15	7
+	+	17	0
+	+	18	0
+	+	17	18
+	+	15	7
+	+	19	0
+	+	20	0
+	+	5	11
+	+	6	0
+	+	5	11
+	+	6	24
+
+> ~/calculator.sh
+	*	1765509885	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	2	5
+	+	3	4
+	+	4	0
+
+> ~/calsulator.sh
+	*	1765509842	0
+	"	1	0
 
 > ~/aws_resource_tracker.sh
 	*	1764836424	0

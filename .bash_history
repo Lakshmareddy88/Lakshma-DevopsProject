@@ -90,3 +90,109 @@ git
 clear
 git init
 ls -la
+clear
+git remote add origin https://github.com/Lakshmareddy88/myprojectdevops.git
+git branch -M main
+git push -u origin main
+git branch
+git log
+git add.
+git add .
+echo ''test file" > test.txt
+git add .
+clear
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Lakshmareddy88/myprojectdevops.git
+git push -u origin main
+clear
+git config --global credential.helper store
+git push -u origin main
+clear
+git branch
+git branch -M master
+git branch
+git push -u origin master
+clear
+git branch -M master
+git push -u origin master
+clear
+git add .
+git commit -m "Remove secrets and large files"
+git filter-branch --force --index-filter \
+clear
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch <file_with_secret>" --prune-empty --tag-name-filter cat -- --all
+git rev-list --objects --all | grep 6f18860137d4b04d5c949c04e72844bb53c51e4d
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch <.aws/credentials>" --prune-empty --tag-name-filter cat -- --all
+git push --force origin master
+clear
+git rev-list --objects --all | grep 6f18860137d4b04d5c949c04e72844bb53c51e4d
+git rm --cached .aws/credentials
+git commit -m "Remove AWS credentials"
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch .aws/credentials" --prune-empty --tag-name-filter cat -- --all
+git push --force origin master
+clear
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch .aws/credentials" --prune-empty --tag-name-filter cat -- --all
+sudo apt install git-filter-repo
+git filter-repo --path .aws/credentials --invert-paths
+clear
+git filter-repo --path .aws/credentials --invert-paths --force
+echo ".aws/credentials" >> .gitignore
+git add .gitignore
+git commit -m "Ignore AWS credentials"
+git push --force origin master
+clear
+git rev-list --objects --all | grep 2417eff17bef785bba2ccf368954054cfcd647fa
+git rev-list --objects --all | grep 846499e25a6649285d9806a1b2f456e861eb8623
+git filter-repo --path <file_with_secret1> --invert-paths --force
+git filter-repo --path <.git-credentials> --invert-paths --force
+git filter-repo --path .git-credentials --invert-paths --force
+clear
+git filter-repo --path aws/dist/awscli/examples/greengrass/create-connector-definition-version.rst --invert-paths --force
+echo ".git-credentials" >> .gitignore
+echo "aws/dist/awscli/examples/greengrass/create-connector-definition-version.rst" >> .gitignore
+git add .gitignore
+git commit -m "Ignore secret files"
+git push --force origin master
+git branch 
+clear
+ls
+ls -la
+clear
+git --version
+git init 
+clear
+git status
+ls
+vim calculator.sh
+chmod 777 calculator.s
+chmod 777 calculator.sh
+./calculator.sh
+ls
+cat calculator.sh
+git add calculator.sh
+git status
+clear
+git commit -m "Add calculator.sh script"
+echo ".viminfo" >> .gitignore
+echo "--invert-paths" >> .gitignore
+git add .gitignore
+git commit -m "Ignore Vim and temporary files"
+git push origin master
+git status 
+ls
+clear
+vim calculator.sh
+./calculator.sh
+cat calculator.sh
+git status
+git add calculator.sh
+git commit -m "Update calculator.sh script"
+git push origin master
+git status
+ls
+cd myprojectdevops
+clear
+~/.git-credentials
