@@ -10,4 +10,8 @@ x=1+2
 #
 #division
 #
+#
 #Percentage
+#
+#Multiplication
+
