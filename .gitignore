@@ -4,3 +4,4 @@ aws/dist/awscli/examples/greengrass/create-connector-definition-version.rst
 .viminfo
 --invert-paths
 .viminfo
+.ssh/
