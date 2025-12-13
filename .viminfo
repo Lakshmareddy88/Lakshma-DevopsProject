@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1765596737,,"wq!"
+|2,0,1765596882,,"wq!"
 :q
 |2,0,1765536207,,"q"
 :q!
@@ -36,36 +36,50 @@ $
 # Registers:
 
 # File marks:
-'0  6  0  ~/calculator.sh
-|4,48,6,0,1765596737,"~/calculator.sh"
-'1  8  2  ~/.ssh
-|4,49,8,2,1765536207,"~/.ssh"
-'2  7  12  ~/first-shell-script.sh
-|4,50,7,12,1765533396,"~/first-shell-script.sh"
-'3  7  25  ~/second-shell-script.sh
-|4,51,7,25,1765511789,"~/second-shell-script.sh"
-'4  2  0  ~/second-shell-script
-|4,52,2,0,1765511620,"~/second-shell-script"
-'5  6  24  ~/first-shell-script.sh
-|4,53,6,24,1765511497,"~/first-shell-script.sh"
-'6  6  24  ~/first-shell-script.sh
-|4,54,6,24,1765511497,"~/first-shell-script.sh"
-'7  5  11  ~/first-shell-script.sh
-|4,55,5,11,1765511058,"~/first-shell-script.sh"
-'8  5  11  ~/first-shell-script.sh
-|4,56,5,11,1765511058,"~/first-shell-script.sh"
+'0  7  12  ~/calculator.sh
+|4,48,7,12,1765596882,"~/calculator.sh"
+'1  6  0  ~/calculator.sh
+|4,49,6,0,1765596737,"~/calculator.sh"
+'2  6  0  ~/calculator.sh
+|4,50,6,0,1765596737,"~/calculator.sh"
+'3  8  2  ~/.ssh
+|4,51,8,2,1765536207,"~/.ssh"
+'4  7  12  ~/first-shell-script.sh
+|4,52,7,12,1765533396,"~/first-shell-script.sh"
+'5  7  25  ~/second-shell-script.sh
+|4,53,7,25,1765511789,"~/second-shell-script.sh"
+'6  2  0  ~/second-shell-script
+|4,54,2,0,1765511620,"~/second-shell-script"
+'7  6  24  ~/first-shell-script.sh
+|4,55,6,24,1765511497,"~/first-shell-script.sh"
+'8  6  24  ~/first-shell-script.sh
+|4,56,6,24,1765511497,"~/first-shell-script.sh"
 '9  5  11  ~/first-shell-script.sh
 |4,57,5,11,1765511058,"~/first-shell-script.sh"
 
 # Jumplist (newest first):
+-'  7  12  ~/calculator.sh
+|4,39,7,12,1765596882,"~/calculator.sh"
+-'  6  0  ~/calculator.sh
+|4,39,6,0,1765596865,"~/calculator.sh"
 -'  6  0  ~/calculator.sh
 |4,39,6,0,1765596737,"~/calculator.sh"
+-'  1  0  ~/calculator.sh
+|4,39,1,0,1765596696,"~/calculator.sh"
 -'  1  0  ~/calculator.sh
 |4,39,1,0,1765596696,"~/calculator.sh"
 -'  8  2  ~/.ssh
 |4,39,8,2,1765536207,"~/.ssh"
 -'  8  2  ~/.ssh
 |4,39,8,2,1765536207,"~/.ssh"
+-'  8  2  ~/.ssh
+|4,39,8,2,1765536207,"~/.ssh"
+-'  8  2  ~/.ssh
+|4,39,8,2,1765536207,"~/.ssh"
+-'  1  0  ~/.ssh
+|4,39,1,0,1765536195,"~/.ssh"
+-'  1  0  ~/.ssh
+|4,39,1,0,1765536195,"~/.ssh"
 -'  1  0  ~/.ssh
 |4,39,1,0,1765536195,"~/.ssh"
 -'  1  0  ~/.ssh
@@ -78,6 +92,22 @@ $
 |4,39,7,12,1765533396,"~/first-shell-script.sh"
 -'  7  12  ~/first-shell-script.sh
 |4,39,7,12,1765533396,"~/first-shell-script.sh"
+-'  7  12  ~/first-shell-script.sh
+|4,39,7,12,1765533396,"~/first-shell-script.sh"
+-'  7  12  ~/first-shell-script.sh
+|4,39,7,12,1765533396,"~/first-shell-script.sh"
+-'  7  12  ~/first-shell-script.sh
+|4,39,7,12,1765533396,"~/first-shell-script.sh"
+-'  7  12  ~/first-shell-script.sh
+|4,39,7,12,1765533396,"~/first-shell-script.sh"
+-'  6  24  ~/first-shell-script.sh
+|4,39,6,24,1765533368,"~/first-shell-script.sh"
+-'  6  24  ~/first-shell-script.sh
+|4,39,6,24,1765533368,"~/first-shell-script.sh"
+-'  6  24  ~/first-shell-script.sh
+|4,39,6,24,1765533368,"~/first-shell-script.sh"
+-'  6  24  ~/first-shell-script.sh
+|4,39,6,24,1765533368,"~/first-shell-script.sh"
 -'  6  24  ~/first-shell-script.sh
 |4,39,6,24,1765533368,"~/first-shell-script.sh"
 -'  6  24  ~/first-shell-script.sh
@@ -102,6 +132,38 @@ $
 |4,39,7,25,1765511789,"~/second-shell-script.sh"
 -'  7  25  ~/second-shell-script.sh
 |4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  7  25  ~/second-shell-script.sh
+|4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  7  25  ~/second-shell-script.sh
+|4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  7  25  ~/second-shell-script.sh
+|4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  7  25  ~/second-shell-script.sh
+|4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  7  25  ~/second-shell-script.sh
+|4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  7  25  ~/second-shell-script.sh
+|4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  7  25  ~/second-shell-script.sh
+|4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  7  25  ~/second-shell-script.sh
+|4,39,7,25,1765511789,"~/second-shell-script.sh"
+-'  1  0  ~/second-shell-script.sh
+|4,39,1,0,1765511625,"~/second-shell-script.sh"
+-'  1  0  ~/second-shell-script.sh
+|4,39,1,0,1765511625,"~/second-shell-script.sh"
+-'  1  0  ~/second-shell-script.sh
+|4,39,1,0,1765511625,"~/second-shell-script.sh"
+-'  1  0  ~/second-shell-script.sh
+|4,39,1,0,1765511625,"~/second-shell-script.sh"
+-'  1  0  ~/second-shell-script.sh
+|4,39,1,0,1765511625,"~/second-shell-script.sh"
+-'  1  0  ~/second-shell-script.sh
+|4,39,1,0,1765511625,"~/second-shell-script.sh"
+-'  1  0  ~/second-shell-script.sh
+|4,39,1,0,1765511625,"~/second-shell-script.sh"
+-'  1  0  ~/second-shell-script.sh
+|4,39,1,0,1765511625,"~/second-shell-script.sh"
 -'  1  0  ~/second-shell-script.sh
 |4,39,1,0,1765511625,"~/second-shell-script.sh"
 -'  1  0  ~/second-shell-script.sh
@@ -150,6 +212,38 @@ $
 |4,39,2,0,1765511620,"~/second-shell-script"
 -'  2  0  ~/second-shell-script
 |4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
+-'  2  0  ~/second-shell-script
+|4,39,2,0,1765511620,"~/second-shell-script"
 -'  1  0  ~/second-shell-script
 |4,39,1,0,1765511534,"~/second-shell-script"
 -'  1  0  ~/second-shell-script
@@ -164,111 +258,19 @@ $
 |4,39,1,0,1765511534,"~/second-shell-script"
 -'  1  0  ~/second-shell-script
 |4,39,1,0,1765511534,"~/second-shell-script"
--'  1  0  ~/second-shell-script
-|4,39,1,0,1765511534,"~/second-shell-script"
--'  1  0  ~/second-shell-script
-|4,39,1,0,1765511534,"~/second-shell-script"
--'  1  0  ~/second-shell-script
-|4,39,1,0,1765511534,"~/second-shell-script"
--'  1  0  ~/second-shell-script
-|4,39,1,0,1765511534,"~/second-shell-script"
--'  1  0  ~/second-shell-script
-|4,39,1,0,1765511534,"~/second-shell-script"
--'  1  0  ~/second-shell-script
-|4,39,1,0,1765511534,"~/second-shell-script"
--'  1  0  ~/second-shell-script
-|4,39,1,0,1765511534,"~/second-shell-script"
--'  1  0  ~/second-shell-script
-|4,39,1,0,1765511534,"~/second-shell-script"
--'  1  0  ~/second-shell-script
-|4,39,1,0,1765511534,"~/second-shell-script"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  6  24  ~/first-shell-script.sh
-|4,39,6,24,1765511497,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511412,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511058,"~/first-shell-script.sh"
--'  5  11  ~/first-shell-script.sh
-|4,39,5,11,1765511058,"~/first-shell-script.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/calculator.sh
-	*	1765596735	0
-	"	6	0
-	^	6	1
-	.	7	0
+	*	1765596879	0
+	"	7	12
+	^	7	13
+	.	7	12
 	+	2	5
 	+	3	4
-	+	7	0
+	+	8	0
+	+	6	0
+	+	7	12
 
 > ~/first-shell-script.sh
 	*	1765533392	0
