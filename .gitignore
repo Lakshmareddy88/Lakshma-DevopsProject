@@ -8,3 +8,6 @@ aws/dist/awscli/examples/greengrass/create-connector-definition-version.rst
 .terraform/
 terraform.tfstate
 terraform.tfstate.backup
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
