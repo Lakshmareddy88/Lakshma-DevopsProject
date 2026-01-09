@@ -1,0 +1,13 @@
+.aws/credentials
+.git-credentials
+aws/dist/awscli/examples/greengrass/create-connector-definition-version.rst
+.viminfo
+--invert-paths
+.viminfo
+.ssh/
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
