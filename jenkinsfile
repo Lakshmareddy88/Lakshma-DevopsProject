@@ -1,0 +1,37 @@
+pipeline {
+  agent none
+
+  stages {
+
+    stage('Backend') {
+      agent {
+        docker { image 'maven:3.9.6-eclipse-temurin-17' }
+      }
+      steps {
+        sh 'mvn -version'
+      }
+    }
+
+    stage('Frontend') {
+      agent {
+        docker { image 'node:18-alpine' }
+      }
+      steps {
+        sh 'node --version'
+      }
+    }
+
+    stage('Database') {
+      agent {
+        docker {
+          image 'mysql:8.0'
+          args '-e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=testdb'
+        }
+      }
+      steps {
+        sh 'mysql --version'
+      }
+    }
+  }
+}
+
