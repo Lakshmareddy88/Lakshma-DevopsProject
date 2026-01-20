@@ -1,18 +1,20 @@
-FROM ubuntu
+FROM python:3.11-slim
 
+# Set working directory
 WORKDIR /app
 
-COPY requirements.txt /app/
-COPY devops /app/
+# Copy dependencies first (for caching)
+COPY requirements.txt .
 
-RUN apt-get update && apt-get install -y python3 python3-pip python3-venv
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
 
-SHELL ["/bin/bash", "-c"]
+# Copy project files
+COPY devops/ /app/
 
-RUN python3 -m venv venv1 && \
-source venv1/bin/activate && \
-pip install --no-cache-dir -r requirements.txt
-
+# Expose port
 EXPOSE 8000
 
-CMD source venv1/bin/activate && python3 manage.py runserver 0.0.0.0:8000
+# Run Django server
+CMD ["python3", "manage.py", "runserver", "0.0.0.0:8000"]
+
